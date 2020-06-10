@@ -38,8 +38,8 @@ Essas informações poderiam ser fornecidas, por exemplo, por meio de argumentos
 iDUnicoERB,latitude,longitude. 
 
 Exemplo:
-192.168.1.101:1234,-27.12243,48.2929
-192.168.1.101:2222,-27.22000,48.2929
+192.168.1.101:1234,-27.12243,48.2929 |
+192.168.1.101:2222,-27.22000,48.2929 |
 192.168.1.244:1234,-27.33000,48.2929 - Ok 
 
 - esta no arquivo ERBs.txt, que esta na pasta balao do projeto
